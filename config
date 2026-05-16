@@ -116,7 +116,7 @@
             "4": 41,
             "5": 26,
             "6": 11,
-            "7": 0,
+            "7": 0
         },
         "format-icons":
             [
@@ -134,7 +134,15 @@
     "hyprland/language":
     {
         "format-en": "EN",
-        "format-ar": "AR"
+        "format-ar": "AR",
+        "format-zh": "ZH",
+        "format-in": "HI",
+        "format-es": "ES",
+        "format-fr": "FR",
+        "format-ru": "RU",
+        "format-pt": "PT",
+        "format-bn": "BN",
+        "format-de": "DE"
     },
 
     "memory":
