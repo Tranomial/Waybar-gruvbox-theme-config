@@ -1,7 +1,7 @@
 # Waybar-gruvbox-theme-config
 This is a waybar config themed after the vim colorscheme [gruvbox](https://github.com/morhetz/gruvbox). It aims to be warm and cozy.
 
-<img width="1920" height="1080" alt="Waybar" src="https://github.com/user-attachments/assets/b6769d80-ea77-457c-bf11-d889b6e09ba6" />
+<img width="1920" height="1080" alt="waybar" src="https://github.com/user-attachments/assets/cd908fbb-8e7a-4bbd-a87c-3e3ddd24ea56" />
 
 # Installation:
 Run:
