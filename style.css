@@ -1,5 +1,5 @@
-/* Prevents GTK theme from overwriting waybar properties */
-* {
+/* Prevents GTK theme from overwriting waybar properties (except for the tooltip style) */
+*:not(tooltip) {
     all: unset;
 }
 
