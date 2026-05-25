@@ -1,5 +1,5 @@
-/* Prevents GTK theme from overwriting waybar properties (except for the tooltip style) */
-*:not(tooltip) {
+/* Reset everything except dropdowns, popups and tooltips */
+*:not(tooltip):not(menu):not(menuitem):not(check):not(radio):not(separator) {
     all: unset;
 }
 
